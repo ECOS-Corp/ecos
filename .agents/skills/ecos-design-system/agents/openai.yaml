@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ecos Design System"
+  short_description: "Preserva a identidade visual e os padrões da Ecos"
+  default_prompt: "Aplique o design system da Ecos nesta alteração."

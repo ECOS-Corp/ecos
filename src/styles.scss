@@ -1,0 +1,5 @@
+:root { --ink:#07162d; --muted:#53647b; --blue:#1167e8; --blue-dark:#0755ca; --paper:#f7f9fc; --line:rgba(7,22,45,.12); }
+* { box-sizing:border-box; }
+html { scroll-behavior:smooth; }
+body { margin:0; color:var(--ink); background:var(--paper); font-family:'DM Sans',sans-serif; -webkit-font-smoothing:antialiased; }
+button,a { font:inherit; } a { color:inherit; } ::selection { color:#fff; background:var(--blue); }
